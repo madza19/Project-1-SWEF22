@@ -7,7 +7,8 @@ This project was from a previous project in the Data Structures course.
 My instructor gave us a code that would not compile and I ended up fixing it myself and sharing with the class. We all had the same issue
 and got the same errors when we would try to compile. 
 
-This project is supposed to read and perform each hash and time how long each hash takes to complete, given a number of items.
+This project is supposed to read and perform each hash and time how long each hash takes to complete, given a number of items. 
+This was made in CodeBlocks using C++!
 
 In this folder you will find:
 1. My main file
